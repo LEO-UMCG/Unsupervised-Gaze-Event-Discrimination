@@ -1,10 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,7 +8,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -24,7 +16,15 @@ This repository contains the supplementary code for the research paper ['link'].
 
 ## Usage
 ### installation
-The code could be downloaded by 
+Getting the code could be done using the following methods:
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+   
+2. Download the repo by clicking [here](https://github.com/LEO-UMCG/Unsupervised-Gaze-Event-Discrimination/archive/refs/heads/main.zip)  and unpack.
+
+Aside from the code, you need a Python interpreter. For this, we recommend [Visual studio code](https://code.visualstudio.com). The scripts use very common python packages, like Pandas, Numpy and SKlearn, which need to be installed.
 
 ### example
 In the document, you can find a file called 'Main.IPYNB'. This file contains an example of how the toolbox could be used. In this file, we explore the preprocessing, and clustering functions.
@@ -58,7 +58,7 @@ The open source community thrives on contributions, which are the driving force 
 5. Open a pull request
 
 ## license
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## contact
-
-## acknowledgements
+Ruben Otter | [r.otter@st.hanze.nl](mailto:r.otter@st.hanze.nl)
