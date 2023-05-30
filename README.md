@@ -22,7 +22,7 @@ This repository contains the supplementary code for the research paper ['link'].
 Getting the code could be done using the following methods:
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/LEO-UMCG/Unsupervised-Gaze-Event-Discrimination/
    ```
    
 2. Download the repo by clicking [here](https://github.com/LEO-UMCG/Unsupervised-Gaze-Event-Discrimination/archive/refs/heads/main.zip)  and unpack.
