@@ -14,7 +14,10 @@
 # Unsupervised-Gaze-Event-Discrimination
 This repository contains the supplementary code for the research paper ['link']. In this project, we researched the possibilities of the use of unsupervised machine learning for the classification of gaze events in mobile eye-trackers. The method we proposed did not show sufficient performance, but we believe that the code provided in this repository is a versatile toolbox, which could be used for further research.
 
-## Usage
+
+
+
+# Usage
 ### installation
 Getting the code could be done using the following methods:
 1. Clone the repo
@@ -25,6 +28,9 @@ Getting the code could be done using the following methods:
 2. Download the repo by clicking [here](https://github.com/LEO-UMCG/Unsupervised-Gaze-Event-Discrimination/archive/refs/heads/main.zip)  and unpack.
 
 Aside from the code, you need a Python interpreter. For this, we recommend [Visual studio code](https://code.visualstudio.com). The scripts use very common python packages, like Pandas, Numpy and SKlearn, which need to be installed.
+
+
+
 
 ### example
 In the document, you can find a file called 'Main.IPYNB'. This file contains an example of how the toolbox could be used. In this file, we explore the preprocessing, and clustering functions.
@@ -47,6 +53,9 @@ The clustering module contains functions, used to perform the clustering, predic
 * **convert_perc_to_ratio** Function to covert the percentage strings to ratios of the clusters CSV-file. (Example: '74%' to 0.74)
 * **silhouette score plot** Plots the silhouette score plot for the dataset, with 10, 50, and 100 clusters.
 
+
+
+
 # contributing
 The open source community thrives on contributions, which are the driving force behind its incredible environment for learning, inspiring, and creating. Any contributions you make are highly valued. If you have any suggestions to enhance this project, we encourage you to fork the repository and submit a pull request. Alternatively, you can simply open an issue with the "enhancement" tag. Don't forget to show your support by giving the project a star! Thank you once again!
 
@@ -57,8 +66,14 @@ The open source community thrives on contributions, which are the driving force 
 4. Push the changes to your branch (git push origin feature/AmazingFeature)
 5. Open a pull request
 
-## license
+
+
+
+# license
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-## contact
+
+
+
+# contact
 Ruben Otter | [r.otter@st.hanze.nl](mailto:r.otter@st.hanze.nl)
