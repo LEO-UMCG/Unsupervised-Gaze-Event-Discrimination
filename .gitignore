@@ -3,3 +3,4 @@ data/
 plots/
 .DS_Store
 *.pyc
+data_analysis/PCA.ipynb
